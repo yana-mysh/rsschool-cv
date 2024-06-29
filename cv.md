@@ -12,7 +12,7 @@ I aim to become a highly qualified web developer. I’m at the very beginning of
 _Skills:_
 I’m currently learning JS with the intension of learning one of the backend languages in the future to become a full-stack developer.
 
-Languages:
+_Languages:_
 
 - English – fluent,
 - German – fluent,
